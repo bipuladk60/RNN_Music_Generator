@@ -31,7 +31,8 @@ K:A Dorian
 FG|ABce fcAF|GEEF GFEC|DB,ED EDB,|EFE EFD|FGF E2D D2C|A,CE cEE|DED AGF|GEE E2:|!
 ```
 This ABC notation when converted to MIDI sounds like this: 
-[Music](output_examples/output_0.mov)
+https://github.com/bipuladk60/RNN_Music_Generator/assets/98636057/4dcbdfee-aef6-49a5-a523-b27dd04ee532
+
 ## License
 
 This project is licensed under the MIT License.

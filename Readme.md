@@ -31,7 +31,7 @@ K:A Dorian
 FG|ABce fcAF|GEEF GFEC|DB,ED EDB,|EFE EFD|FGF E2D D2C|A,CE cEE|DED AGF|GEE E2:|!
 ```
 This ABC notation when converted to MIDI sounds like this: 
-![Music](output_examples/output_0.wav)
+![Music](../output_examples/output_0.wav)
 ## License
 
 This project is licensed under the MIT License.
